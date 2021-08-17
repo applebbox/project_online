@@ -22,13 +22,15 @@
         height: 100px;
         position: relative;
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
+        margin-left: 50px;
         align-items: center;
         z-index: 999;  
     }
     header nav ul {
         display: flex;
         font-size: 18px;
+        padding-right: 50px;
     }
     header nav ul li {
         width: 150px;
