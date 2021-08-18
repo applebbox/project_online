@@ -28,7 +28,7 @@ header{
     position: relative;
     display: flex;
     justify-content: space-between;
-    margin-left: 50px;
+    padding-left: 50px;
     align-items: center;
     z-index: 999; 
     position: sticky; 
@@ -38,7 +38,8 @@ header{
 header nav ul {
     display: flex;
     font-size: 18px;
-    padding-right: 100px;
+    padding-right: 50px;
+
   
 }
 header nav ul li {
